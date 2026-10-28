@@ -1,0 +1,1 @@
+{"notes":"Copy to targets.json (gitignored) and fill by hand. One small candidate at a time. Never add a repository you have not checked: CONTRIBUTING, PR template, recent merged typo PRs, and whether the project welcomes outside PRs at all.","targets":[{"checked_contributing":false,"checked_no_duplicate_pr":false,"notes":"","repo":"owner/name"}]}

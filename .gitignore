@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+out/
+reports/
+*.local.json
+config/targets.json
